@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Mfp_ProductZoom",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "This extension replaces the image gallery with the jquery inner zoom slider widget.
+",
+    "authors": [
+    {
+        "name": "harpreet",
+        "email": "harpreetsinghphp@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
