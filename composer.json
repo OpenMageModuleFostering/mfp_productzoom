@@ -1,5 +1,7 @@
 {
     "keywords": [
         "openmage-module"
-    ]
+    ],
+    "name": "openmage-module-fostering\/mfp_productzoom",
+    "license": "OSL-3.0"
 }
